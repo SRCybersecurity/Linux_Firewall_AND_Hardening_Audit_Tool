@@ -19,10 +19,10 @@ Features:
 I have attached python file named " mpfirewall.py "  
 To run this file on linux system needs to install dependencies using command: </br>
   
-       pip install scapy
+    pip install scapy
 Now run this command to run the application: 
 
-       sudo python3 mpfirewall.py       
+    sudo python3 mpfirewall.py       
 ---
 2.A Linux Hardening Audit Tool 
 ---
@@ -39,12 +39,8 @@ Features:
 3.	Check for rootkit indicators
 4.	Generate a score/report based on CIS benchmarks
 5.	Recommend hardening actions
-
-
 ---
 I have attached python file to run this tool by using command: 
 
     sudo python3 linux_hardening.py 
-
-
 ---
