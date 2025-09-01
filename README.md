@@ -17,7 +17,7 @@ Features:
 4.	Packet Logging – Show sniffed packets + firewall decisions.
 ---
 I have attached python file named " mpfirewall.py "  
-To run on this file on linux system needs to install dependencies using command: </br>
+To run this file on linux system needs to install dependencies using command: </br>
   
        pip install scapy
 Now run this command to run the application: 
