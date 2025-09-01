@@ -44,3 +44,7 @@ I have attached python file to run this tool by using command:
 
     sudo python3 linux_hardening.py 
 ---
+
+Thank you for look into this mini porjects. </br>
+If you have any suggestions do let me know. </br> </br>
+***END***
