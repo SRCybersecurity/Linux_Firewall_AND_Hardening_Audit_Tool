@@ -24,12 +24,15 @@ Now run this command to run the application:
 
     sudo python3 mpfirewall.py       
 ---
+I have also attached the 2 page report (PDF) named " Firewall_Report " on this mini project for better understanding.
+
+---
 2.A Linux Hardening Audit Tool 
 ---
 using python, os commands that Check firewall rules, unused services, SSH settings, rootkit indicators and Generate a score/report based on CIS benchmarks and Recommend hardening actions.
 
 ---
-Tools: Python, OS commands.
+Tools: Python, OS commands, HTML.
 
 ---
 Features: 
@@ -37,14 +40,17 @@ Features:
 1.	Check firewall rules, unused services, SSH settings
 2.	Verify permissions on key files
 3.	Check for rootkit indicators
-4.	Generate a score/report based on CIS benchmarks
+4.	Generate a score/report (html) based on CIS benchmarks
 5.	Recommend hardening actions
 ---
 I have attached python file to run this tool by using command: 
 
     sudo python3 linux_hardening.py 
 ---
+I have also attached the 2 page report (PDF) named " Audit_Tool_Report " on this mini project.
 
-Thank you for look into this mini porjects. </br>
-If you have any suggestions do let me know. </br> </br>
+---
+If you have any suggestions please do let me know. I will try to upgrade given mini projects into advanced ones. I'd appreciate all the help and suggestions to work on this my mini projects. </br> 
+Thank you for look into my mini porjects for Linux System. </br>
+</br>
 ***END***
