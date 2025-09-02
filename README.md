@@ -47,7 +47,7 @@ I have attached python file to run this tool by using command:
 
     sudo python3 linux_hardening.py 
 ---
-I have also attached the 2 page report (PDF) named " Audit_Tool_Report " on this mini project.
+Generate a audit score report and recommended hardening actions in Terminal itself and system save a html report for future use. I have also attached the 2 page report (PDF) named " Audit_Tool_Report " on this mini project.
 
 ---
 If you have any suggestions please do let me know. I will try to upgrade given mini projects into advanced ones. I'd appreciate all the help and suggestions to work on this my mini projects. </br> 
